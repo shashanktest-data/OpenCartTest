@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-02T17:13:00 IST" name="Suite" finished-at="2025-12-02T17:13:14 IST" duration-ms="13584">
+    <groups>
+      <group name="sanity">
+        <method signature="LoginPageTest.verify_login()[pri:0, instance:testCases.LoginPageTest@470f1802]" name="verify_login" class="testCases.LoginPageTest"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="LoginPageTest.verify_login()[pri:0, instance:testCases.LoginPageTest@470f1802]" name="verify_login" class="testCases.LoginPageTest"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2025-12-02T17:13:00 IST" name="Test" finished-at="2025-12-02T17:13:14 IST" duration-ms="13584">
+      <class name="testCases.LoginPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginPageTest@470f1802]" started-at="2025-12-02T17:13:00 IST" name="setup" finished-at="2025-12-02T17:13:09 IST" duration-ms="8319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_login()[pri:0, instance:testCases.LoginPageTest@470f1802]" started-at="2025-12-02T17:13:09 IST" name="verify_login" finished-at="2025-12-02T17:13:13 IST" duration-ms="4184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageTest@470f1802]" started-at="2025-12-02T17:13:13 IST" name="teardown" finished-at="2025-12-02T17:13:14 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
