@@ -1,3 +1,18 @@
-2025-12-02 22:45:29 [main] INFO  testCases.LoginPageTest - verify login test case started
-2025-12-02 22:45:33 [main] INFO  testCases.LoginPageTest - ===== Login Test Passed =====
-2025-12-02 22:45:33 [main] INFO  testCases.LoginPageTest - ******************finished verify login test**********
+2025-12-03 13:24:47 [main] INFO  testCases.LoginPageTest - verify login test case started
+2025-12-03 13:24:50 [main] ERROR testCases.LoginPageTest - Exception occurred: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (3274feed614059db2add2fd2f603b99b)] -> xpath: //span[text()='My Account']] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\Shashank\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52375}, goog:processID: 21084, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52375/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3274feed614059db2add2fd2f603b99b
+2025-12-03 13:27:30 [main] INFO  testCases.LoginPageTest - verify login test case started
+2025-12-03 13:29:14 [main] INFO  testCases.LoginPageTest - verify login test case started
+2025-12-03 13:29:17 [main] ERROR testCases.LoginPageTest - Exception occurred: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (47e47c4d7618d92cd23090e6f12a7bb2)] -> xpath: //span[text()='My Account']] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\Shashank\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62832}, goog:processID: 14804, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62832/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 47e47c4d7618d92cd23090e6f12a7bb2
+2025-12-03 13:30:21 [main] INFO  testCases.LoginPageTest - verify login test case started
+2025-12-03 13:30:29 [main] INFO  testCases.LoginPageTest - ===== Login Test Passed =====
+2025-12-03 13:30:29 [main] INFO  testCases.LoginPageTest - ******************finished verify login test**********

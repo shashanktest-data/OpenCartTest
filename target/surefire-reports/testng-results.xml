@@ -2,7 +2,7 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-02T22:44:47 IST" name="Suite" finished-at="2025-12-02T22:45:34 IST" duration-ms="47349">
+  <suite started-at="2025-12-03T13:29:53 IST" name="Suite" finished-at="2025-12-03T13:30:29 IST" duration-ms="35880">
     <groups>
       <group name="sanity">
         <method signature="LoginPageTest.verify_login()[pri:0, instance:testCases.LoginPageTest@795cd85e]" name="verify_login" class="testCases.LoginPageTest"/>
@@ -11,9 +11,9 @@
         <method signature="LoginPageTest.verify_login()[pri:0, instance:testCases.LoginPageTest@795cd85e]" name="verify_login" class="testCases.LoginPageTest"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2025-12-02T22:44:47 IST" name="Test" finished-at="2025-12-02T22:45:34 IST" duration-ms="47349">
+    <test started-at="2025-12-03T13:29:53 IST" name="Test" finished-at="2025-12-03T13:30:29 IST" duration-ms="35880">
       <class name="testCases.LoginPageTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-02T22:44:48 IST" name="setup" finished-at="2025-12-02T22:45:29 IST" duration-ms="40576" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-03T13:29:54 IST" name="setup" finished-at="2025-12-03T13:30:21 IST" duration-ms="26931" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-02T22:45:29 IST" name="verify_login" finished-at="2025-12-02T22:45:33 IST" duration-ms="4352" status="PASS">
+        <test-method signature="verify_login()[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-03T13:30:21 IST" name="verify_login" finished-at="2025-12-03T13:30:29 IST" duration-ms="8184" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-02T22:45:33 IST" name="teardown" finished-at="2025-12-02T22:45:34 IST" duration-ms="1141" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageTest@795cd85e]" started-at="2025-12-03T13:30:29 IST" name="teardown" finished-at="2025-12-03T13:30:29 IST" duration-ms="465" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
